@@ -14,16 +14,13 @@
     "img": "disneyplus.png",
     "url": "https://www.disneyplus.com/"
   },
-  "nowtv": {
-    "name": "NOW TV",
-    "img": "nowtv.png",
-    "url": "https://www.nowtv.com/"
+  "ptv2": {
+    "name": "Tv2 Play",
+    "img": "tv2play.webp",
+    "url": "https://play.tv2.no/"
   },
-  "dazn": {
-    "name": "DaZn",
-    "img": "dazn.png",
-    "url": "https://www.dazn.com/"
-  },
+
+
   "paramountplus": {
     "name": "Paramount+",
     "img": "paramountplus.png",
@@ -38,25 +35,5 @@
     "name": "Twitch",
     "img": "twitch.png",
     "url": "https://www.twitch.tv/"
-  },
-  "raiplay": {
-    "name": "Rai Play",
-    "img": "raiplay.png",
-    "url": "https://www.raiplay.it/"
-  },
-  "mediaset": {
-    "name": "Mediaset",
-    "img": "mediaset.png",
-    "url": "https://www.mediasetplay.mediaset.it/"
-  },
-  "skytg24": {
-    "name": "Sky TG24",
-    "img": "skytg24.png",
-    "url": "https://tg24.sky.it/"
-  },
-  "airtesla": {
-    "name": "Air Tesla",
-    "img": "airtesla.png",
-    "url": "http://6.6.6.6/"
   }
 }
