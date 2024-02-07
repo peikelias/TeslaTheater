@@ -8,6 +8,13 @@
     "name": "Plex",
     "img": "plex.png",
     "url": "https://app.plex.tv/"
+    
+  },
+  "Google": {
+    "name": "Google",
+    "img": "google.png",
+    "url": "https://google.com/"
+    
   },
   "disneyplus": {
     "name": "Disney+",
