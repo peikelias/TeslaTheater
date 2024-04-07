@@ -16,6 +16,12 @@
     "url": "https://google.com/"
     
   },
+  "NRK": {
+    "name": "NRK",
+    "img": "nrk.png",
+    "url": "https://tv.nrk.no/"
+    
+  },
   "disneyplus": {
     "name": "Disney+",
     "img": "disneyplus.png",
